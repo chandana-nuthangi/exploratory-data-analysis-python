@@ -44,6 +44,8 @@ Data was collected from the Bright Sky API.
 berlin-weather-eda/
 ├── notebooks/
 │   └── berlin_weather_eda.ipynb
+├── reports/
+│   └── berlin-weather-eda-report.pptx
 ├── visuals/
 │   ├── missing_values_by_variable.png
 │   ├── daily_average_temperature_trend_berlin.png
@@ -52,7 +54,5 @@ berlin-weather-eda/
 │   ├── average_monthly_precipitation_berlin.png
 │   ├── extreme_weather_days_by_year_berlin.png
 │   └── weather_variable_correlation_berlin.png
-├── reports/
-│   └── berlin-weather-eda-report.pptx
 ├── requirements.txt
 └── README.md
